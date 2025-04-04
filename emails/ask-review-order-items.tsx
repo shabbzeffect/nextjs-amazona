@@ -33,17 +33,17 @@ AskReviewOrderItemsEmail.PreviewProps = {
     taxPrice: 0,
     shippingPrice: 0,
     user: {
-      name: 'John Doe',
-      email: 'john.doe@example.com',
+      name: 'shabir wangara',
+      email: 'shabir@wangara.com',
     },
     shippingAddress: {
-      fullName: 'John Doe',
+      fullName: 'shabir wangara',
       street: '123 Main St',
-      city: 'New York',
+      city: 'Nairobi Kenya',
       postalCode: '12345',
-      country: 'USA',
+      country: 'KEN',
       phone: '123-456-7890',
-      province: 'New York',
+      province: 'Nairobi',
     },
     items: [
       {
